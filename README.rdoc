@@ -1,4 +1,4 @@
-= Authlogic Example App
+dkjsfbdjksfdjks:wq= Authlogic Example App
 
 This is an example of how to use Authlogic in a rails app. Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
 
